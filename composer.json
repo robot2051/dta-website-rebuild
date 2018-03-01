@@ -222,7 +222,8 @@
     "config": {
         "bin-dir": "bin/",
         "sort-packages": true,
-        "optimize-autoloader": true
+        "optimize-autoloader": true,
+        "secure-http": false
     },
     "conflict": {
         "drupal/core": "7.*",

@@ -1318,7 +1318,7 @@
                 "Apache-2.0"
             ],
             "description": "The official PHP client library for disqus, with added composer.json.",
-            "time": "2013-11-07 10:47:07"
+            "time": "2013-11-07T10:47:07+00:00"
         },
         {
             "name": "drupal-composer/drupal-scaffold",
@@ -3738,7 +3738,7 @@
             "support": {
                 "source": "http://cgit.drupalcode.org/link_css"
             },
-            "time": "2016-11-08 03:19:30"
+            "time": "2016-11-08T03:19:30+00:00"
         },
         {
             "name": "drupal/linkit",
@@ -5233,7 +5233,7 @@
             "support": {
                 "source": "http://cgit.drupalcode.org/search_api_page"
             },
-            "time": "2017-09-25 13:04:15"
+            "time": "2017-09-25T13:04:15+00:00"
         },
         {
             "name": "drupal/seckit",
@@ -6563,7 +6563,7 @@
                 "reference": "master"
             },
             "type": "drupal-custom-theme",
-            "time": "2018-03-01 01:28:58"
+            "time": "2018-03-01T04:50:47+00:00"
         },
         {
             "name": "govau/dta-uikit-base",
@@ -6574,7 +6574,7 @@
                 "reference": "master"
             },
             "type": "drupal-custom-theme",
-            "time": "2018-02-07 22:28:08"
+            "time": "2018-02-07T22:28:08+00:00"
         },
         {
             "name": "govau/dta-uikit-base-theme",
@@ -6585,7 +6585,7 @@
                 "reference": "master"
             },
             "type": "drupal-custom-theme",
-            "time": "2018-02-04 22:51:23"
+            "time": "2018-02-07T22:28:08+00:00"
         },
         {
             "name": "grasmash/yaml-expander",
